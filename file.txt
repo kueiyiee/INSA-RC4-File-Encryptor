@@ -1,0 +1,9 @@
+INSA CTC Summer Camp
+Malware Development Practical Assignment
+
+Project: RC4 File Encryptor and Decryptor
+
+Student: Kuei Poch Kuei
+Group: Team Echo ID CTC-7679-26
+
+This file is used as the controlled test input for the RC4 encryption and decryption demonstration.

@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+encryptor
+decryptor
+
+# Logs
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
